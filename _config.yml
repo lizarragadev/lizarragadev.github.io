@@ -1,8 +1,10 @@
 # Site settings
 title: Gustavo Lizárraga
-description: 'Esta es la descripción del sitio web.'
+description: '🚩GitHub Campus Expert. ⭐Auth0 Ambassador. 🦑GitKraken Ambassador. Android/iOS Dev. Trainer. Speaker.'
 url: 'https://lizarragadev.github.io/'
-baseurl: 'https://lizarragadev.github.io'
+baseurl: 'https://lizarragadev.github.io/'
+# url: '/'
+# baseurl: '/lizarraga.dev'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -13,6 +15,8 @@ author:
   facebook_username: lizarraga.dev
   github_username:  lizarragadev
   linkedin_username:  lizarragadev
+  instagram_username:  lizarraga.dev
+  speakerdeck_username:  lizarragadev
 
 defaults:
   -
