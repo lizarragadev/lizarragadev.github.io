@@ -1,7 +1,7 @@
 # Site settings
 title: Gustavo Lizárraga
 description: 'Esta es la descripción del sitio web.'
-url: 'http://joshgerdes.com/jekyll-uno'
+url: 'https://lizarragadev.github.io/'
 baseurl: '/lizarraga.dev'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
