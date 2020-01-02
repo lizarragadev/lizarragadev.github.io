@@ -2,7 +2,7 @@
 title: Gustavo Lizárraga
 description: 'Esta es la descripción del sitio web.'
 url: 'https://lizarragadev.github.io/'
-baseurl: '/lizarraga.dev'
+baseurl: 'https://lizarragadev.github.io'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
