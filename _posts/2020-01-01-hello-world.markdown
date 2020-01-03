@@ -2,19 +2,21 @@
 title:  "¡Hola mundo!"
 date:   2020-01-01 20:04:23
 categories: [jekyll]
-tags: [personal]
+tags: [me]
 ---
 
-Hola, primeramente gracias por darte una pasada por este sitio y tomarte el tiempo de leer las locas cosas que escribo.
+¡Hola!, gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo.
 
 Mi nombre es **Gustavo Lizárraga**, soy de la ciudad maravilla: **La Paz** en el hermoso país de **Bolivia** y me gusta todo lo referido a tecnología.
 
 Estudio **Informática** en la **Universidad Mayor de San Andrés** y eterno aprendíz autodidácta en temas de tecnología, el espacio, multiversos, ciencia ficción y fan de teorías locas acerca del Universo.
 
-Actualmente pertenezco a tres programas tecnológicos que son:
-+ [GitHub Campus Expert]()
-+ [Auth0 Ambassador]()
-+ [GitKraken Ambassador]()
+Desarrollo Software, pero mi especialidad es la creación de aplicaciones móviles para el sistema operativo **Android** y también para **iOS**, me encanta programar de forma nativa con **Kotlin** y **Swift**. También me gusta mucho la creación de módulos para dispositivos vestibles (**Wearables**) y hacer cosas locas con **IoT**. 
+Me gusta la parte de seguridad, autenticación y el versionamiento de código, es por ello que actualmente pertenezco a tres programas tecnológicos que son:
+
++ 🚩[GitHub Campus Expert]()
++ ⭐[Auth0 Ambassador]()
++ 🦑[GitKraken Ambassador]()
 
 Los programas a los que pertenezco me ayudan a conseguir uno de mis objetivos, que es ayudar o realizar un impacto a miles de personas y compartirles lo mucho o poca que haya aprendido.
 
