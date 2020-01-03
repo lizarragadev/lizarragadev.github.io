@@ -9,7 +9,7 @@ Como último viaje de éste 2019 tocó ir a la **ciudad blanca**, la capital de 
 
 
 
-> ### Metrics
+> Metrics
 >
 > - Event name: DevFest Sucre 2019.
 > - Community: GDG Sucre
