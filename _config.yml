@@ -10,7 +10,7 @@ baseurl: 'https://lizarraga.dev'
 # url: '/'
 # baseurl: '/lizarraga.dev'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'lizarragadev'
 
 author:
   name: 'Gustavo Lizárraga'
