@@ -1,9 +1,10 @@
 # Site settings
 title: Gustavo Lizárraga
-description1: '🚩GitHub Campus Expert'
-description2: '⭐Auth0 Ambassador'
-description3: '🦑GitKraken Ambassador'
-description4: ' Android/iOS Dev. Trainer. Speaker.'
+description1: '🚩 GitHub Campus Expert'
+description2: '⭐ Auth0 Ambassador'
+description3: '🦑 GitKraken Ambassador'
+description4: '💚 Android & 🤍iOS Dev'
+description5: '🎓 Trainer.  🎤 Speaker.'
 url: 'https://lizarraga.dev'
 baseurl: 'https://lizarraga.dev'
 # url: '/'
