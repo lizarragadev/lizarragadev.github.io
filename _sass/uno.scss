@@ -927,19 +927,20 @@ html {
 body {
 	font-family: "Raleway", sans-serif;
 	font-size: 1em;
-	color: #666666; }
+	color: #666666; 
+}
 
 ::selection {
-	background: #fae3df; }
+	background: #0abde3; }
 
 ::-moz-selection {
-	background: #fae3df; }
+	background: #0abde3; }
 
 a {
 	text-decoration: none;
-	color: #e25440; }
+	color: #00a8ff; }
 	a:hover {
-		color: #b9301c;
+		color: #0097e6;
 		-o-transition: .5s;
 		-ms-transition: .5s;
 		-moz-transition: .5s;
@@ -1045,17 +1046,17 @@ pre {
 .author,
 .tags {
 	font-size: .8em;
-	color: #c7c7c7; }
+	color: #a7a6a6; }
 	.date a,
 	.time a,
 	.author a,
 	.tags a {
-		color: #666666; }
+		color: #595959; }
 		.date a:hover,
 		.time a:hover,
 		.author a:hover,
 		.tags a:hover {
-			color: #b9301c; }
+			color: #0097e6; }
 
 .excerpt {
 	margin: 0;
@@ -1085,7 +1086,7 @@ pre {
 	position: relative;
 	display: inline-block;
 	padding: 8px 18px 9px 18px;
-	background: #e25440;
+	background: #00a8ff;
 	border-radius: 3px;
 	text-align: center;
 	color: #FFF; }
@@ -1120,7 +1121,7 @@ pre {
 		color: #a6a6a6;
 		text-decoration: underline; }
 		.footer__copyright a:hover {
-			color: #b9301c; }
+			color: #0097e6; }
 
 .avatar,
 .logo {
@@ -1210,7 +1211,7 @@ hr {
 	width: 100%;
 	max-width: none;
 	height: 100%;
-	background: url(../images/background-cover.jpg) top left no-repeat #666666;
+	background: url(../images/background-cover.jpg) top left no-repeat #487eb0;
 	background-size: cover; }
 
 .panel-cover--collapsed {
@@ -1308,17 +1309,17 @@ hr {
 
 .btn, .navigation__item a {
 	padding: 10px 20px;
-	border: 1px solid #e25440;
+	border: 1px solid #00a8ff;
 	border-radius: 20px;
 	font-size: .9em;
 	font-weight: bold;
 	letter-spacing: 1px;
 	text-shadow: none;
-	color: #e25440;
+	color: #00a8ff;
 	-webkit-font-smoothing: antialiased; }
 	.btn:hover, .navigation__item a:hover {
-		color: #b9301c;
-		border-color: #b9301c; }
+		color: #0097e6;
+		border-color: #0097e6; }
 
 .btn-secondary {
 	border-color: #5ba4e5;
@@ -1441,9 +1442,9 @@ i {
 	font-size: 1.5em;
 	line-height: 1.3em; }
 	.post-list__post-title a {
-		color: #333333; }
+		color: #00a8ff; }
 		.post-list__post-title a:hover {
-			color: #b9301c; }
+			color: #0097e6; }
 
 .post-list__meta {
 	display: block;
