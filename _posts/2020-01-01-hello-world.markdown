@@ -3,6 +3,7 @@ title:  "¡Hola mundo!"
 date:   2020-01-01 20:04:23
 categories: [jekyll]
 tags: [me]
+image: "../images/cover.jpg"
 ---
 
 ¡Hola!, gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo.

@@ -27,9 +27,9 @@
   <meta property="og:type" content="article">
   <meta property="og:url" content="{% if site.url %}{{ site.url }}{% else %}{{ page.url }}{% endif %}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:description" content="{% if site.description %}{{ site.description }}{% else %}{{ page.description }}{% endif %}" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:site_name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:image:secure_url" content="https://lizarraga.dev/images/bannerSquare.png" />
+  <meta property="og:image" content="{% if page.image %}{{ http://lizarraga.dev/images/cover.jpg }}{% else %}{{ http://lizarraga.dev/images/bannerSquare.png }}{% endif %}" />
 
   <meta name="article:section" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="article:author" content="{{ site.author.twitter_username }}">
