@@ -24,6 +24,7 @@
   {% endif %}
   <meta name="twitter:image" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}" />
 
+  <meta property="fb:app_id" content="187233289275499"/>
   <meta property="og:type" content="article"/>
   <meta property="og:url" content="{{ site.baseurl }}/{{ page.url }}" />
   <meta property="og:title" content="{{ page.title }}"/>
@@ -41,7 +42,7 @@
   <meta itemprop="name" content="{{ page.title }}"/>
   <meta itemprop="description" content="{{ page.description }}"/>
   <meta itemprop="image" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}"/>
-  
+
 <!--
   <meta property="og:url" content="{% if site.url %}{{ site.url }}{% else %}{{ page.url }}{% endif %}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
