@@ -3,7 +3,7 @@ title:  "¡DevFest Sucre 2019!"
 date:   2020-01-01 20:04:23
 categories: [jekyll]
 tags: [talk, workshop, impact, speaker, organizer]
-image: "../images/cover.jpg"
+image: "images/cover.jpg"
 description: "Esta es la descripcion del post DevFest de Sucre y pues vamos a ver hasta que lugar se puede mostrar"
 ---
 

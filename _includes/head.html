@@ -25,11 +25,11 @@
   <meta name="twitter:image" content="{{ site.baseurl }}/images/bannerCircle.png" />
 
   <meta property="og:type" content="article"/>
-  <meta property="og:url" content="{{ page.url }}" />
+  <meta property="og:url" content="{{ site.baseurl }}" />
   <meta property="og:title" content="{{ page.title }}"/>
   <meta property="og:description" content="{{ page.description }}" />
   <meta property="og:site_name" content="{{ page.title }}"/>
-  <meta property="og:image" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}" />
+  <meta property="og:image" content="{% if page.image %}{{ site.baseurl }}/{{ page.image }}{% else %}{{ site.baseurl }}/images/bannerSquare.png{% endif %}" />
   <meta property="og:image:secure_url" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}" />  
 
 <!--
