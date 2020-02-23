@@ -9,7 +9,7 @@ url: 'https://lizarraga.dev'
 baseurl: 'https://lizarraga.dev'
 # url: '/'
 # baseurl: '/lizarraga.dev'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-156509877-1'
 disqus_shortname: 'lizarragadev'
 
 author:
