@@ -29,9 +29,8 @@
   <meta property="og:title" content="{{ page.title }}"/>
   <meta property="og:description" content="{{ page.description }}" />
   <meta property="og:site_name" content="{{ page.title }}"/>
-  <meta property="og:image" content="{{ site.baseurl }}/images/bannerSquare.png" />
-  <meta property="og:image:secure_url" content="{{ site.baseurl }}/images/bannerSquare.png" />
-  
+  <meta property="og:image" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}" />
+  <meta property="og:image:secure_url" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}" />  
 
 <!--
   <meta property="og:url" content="{% if site.url %}{{ site.url }}{% else %}{{ page.url }}{% endif %}" />

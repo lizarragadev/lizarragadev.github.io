@@ -4,6 +4,7 @@ date:   2020-01-01 20:04:23
 categories: [jekyll]
 tags: [me]
 image: "../images/cover.jpg"
+description: "Y bueno probemos si realmente se va a mostrar la descripcion necesaria en el Open Graph... xD"
 ---
 
 ¡Hola!, gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo.
