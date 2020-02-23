@@ -24,14 +24,12 @@
   {% endif %}
   <meta name="twitter:image" content="{{ site.baseurl }}/images/faviconLiz.png" />
 
-  <meta name="og:type" content="article">
-  <meta name="og:url" content="{% if site.url %}{{ site.url }}{% else %}{{ page.url }}{% endif %}" />
-  <meta name="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="og:description" content="{% if site.description %}{{ site.description }}{% else %}{{ page.description }}{% endif %}" />
-  <meta name="og:site_name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="og:image" content="{{ site.baseurl }}/images/faviconLiz.png" />
-  <meta name="og:image:width" content="1200" />
-  <meta name="og:image:height" content="630" />
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{% if site.url %}{{ site.url }}{% else %}{{ page.url }}{% endif %}" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if site.description %}{{ site.description }}{% else %}{{ page.description }}{% endif %}" />
+  <meta property="og:site_name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:image" content="{{ site.baseurl }}/images/faviconLiz.png" />
 
   <meta name="article:section" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="article:author" content="{{ site.author.twitter_username }}">
