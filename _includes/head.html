@@ -16,13 +16,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
   <meta name="twitter:card" content="summary"/>
-  <meta name="twitter:site" content="@lizarragadev" />
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
-  <meta name="twitter:description" content="{{ site.description }}"/>
+  <meta name="twitter:site" content="{{ site.baseurl }}/{{ page.url }}" />
+  <meta name="twitter:title" content="{{ page.title }}"/>
+  <meta name="twitter:description" content="{{ page.description }}"/>
   {% if site.author.twitter_username %}
   <meta name="twitter:creator" content="{{ site.author.twitter_username }}"/>
   {% endif %}
-  <meta name="twitter:image" content="{{ site.baseurl }}/images/bannerCircle.png" />
+  <meta name="twitter:image" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}" />
 
   <meta property="og:type" content="article"/>
   <meta property="og:url" content="{{ site.baseurl }}/{{ page.url }}" />
@@ -32,6 +32,16 @@
   <meta property="og:image" content="{% if page.image %}{{ site.baseurl }}/{{ page.image }}{% else %}{{ site.baseurl }}/images/bannerSquare.png{% endif %}" />
   <meta property="og:image:secure_url" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}" />  
 
+  <meta name="article:section" content="{{ page.title }}"/>
+  <meta name="article:author" content="{{ site.author.twitter_username }}"/>
+  <meta name="article:tag" content="{{ page.tags }}"/>
+  <meta name="description" content="{{ page.description }}"/>
+  <meta name="image" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}"/>
+
+  <meta itemprop="name" content="{{ page.title }}"/>
+  <meta itemprop="description" content="{{ page.description }}"/>
+  <meta itemprop="image" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}"/>
+  
 <!--
   <meta property="og:url" content="{% if site.url %}{{ site.url }}{% else %}{{ page.url }}{% endif %}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
@@ -40,16 +50,6 @@
   <meta property="og:image" content="{% if page.image %} http://lizarraga.dev/images/cover.jpg {% else %} http://lizarraga.dev/images/bannerSquare.png {% endif %}" />
   <meta property="og:image:secure_url" content="{% if page.image %} http://lizarraga.dev/images/cover.jpg {% else %} http://lizarraga.dev/images/bannerSquare.png {% endif %}" />
 -->
-
-  <meta name="article:section" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="article:author" content="{{ site.author.twitter_username }}">
-  <meta name="article:tag" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="description" content="{% if site.description %}{{ site.description }}{% else %}{{ page.description }}{% endif %}">
-  <meta name="image" content="{% if site.baseurl %}{{ site.baseurl }}/images/favicons/android-icon-192x192.png{% else %}{{ page.baseurl }}/images/favicons/android-icon-192x192.png{% endif %}">
-
-  <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta itemprop="description" content="{% if site.description %}{{ site.description }}{% else %}{{ page.description }}{% endif %}">
-  <meta itemprop="image" content="{% if site.baseurl %}{{ site.baseurl }}/images/favicons/android-icon-192x192.png{% else %}{{ page.baseurl }}/images/favicons/android-icon-192x192.png{% endif %}">
 
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/images/favicons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}/images/favicons/apple-icon-60x60.png">
