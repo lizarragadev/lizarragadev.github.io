@@ -4,10 +4,10 @@ date:   2020-03-15 20:04:23
 categories: [jekyll]
 tags: [talk, workshop, impact, speaker]
 image: "images/cover.jpg"
-description: "¿Sabías que en **Sucre** existe una calle llena de cráneos y huesos de personas que se usa como empedrado? Continúa leyendo y te cuento."
+description: "Un consejo muy importante cuando vayas a otro país es que lleves dólares para que el tipo de cambio no afecte tus bolsillos, ¿Quiéres saber lo que me pasó? sigue leyendo..."
 ---
 
-¿Sabías que en **Sucre** existe una calle llena de cráneos y huesos de personas que se usa como empedrado? Continúa leyendo y te cuento.
+Un consejo muy importante cuando vayas a otro país es que lleves dólares para que el tipo de cambio no afecte tus bolsillos, ¿Quiéres saber lo que me pasó? sigue leyendo...
 
 
 

@@ -7,7 +7,7 @@ image: "images/cover.jpg"
 description: "¿Sabías que en **Sucre** existe una calle llena de cráneos y huesos de personas que se usa como empedrado? Continúa leyendo y te cuento."
 ---
 
-¿Sabías que en **Sucre** existe una calle llena de cráneos y huesos de personas que se usa como empedrado? Continúa leyendo y te cuento.
+Cuando era niño escuchaba acerca de los **pejelagartos**, creí que era una broma, pero llegó el día en que los conocí incluso los comí y si, fué en México.
 
 
 
