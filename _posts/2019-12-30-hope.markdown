@@ -1,13 +1,13 @@
 ---
-title:  "🇲🇽 ¡DevFest CONAIS Villahermosa!"
-date:   2019-08-15 08:14:00
-categories: [impact]
-tags: [talk, workshop, impact, travel]
+title:  "¡Soy padrino HOPE!"
+date:   2019-12-30 20:04:23
+categories: [charity]
+tags: [gifts, christmas]
 image: "images/cover.jpg"
-description: "Primera vez que llegaba a México y como siempre en cada nuevo país tengo una nueva aventura con travesuras y equivocaciones."
+description: "Hicimos el trabajo de papanoel y duendes en las fiestas de fin de año de éste 2019."
 ---
 
-Cuando era niño escuchaba acerca de los **pejelagartos**, creí que era una broma, pero llegó el día en que los conocí incluso los comí y si, fué en México.
+¿Sabías que en **Sucre** existe una calle llena de cráneos y huesos de personas que se usa como empedrado? Continúa leyendo y te cuento.
 
 
 

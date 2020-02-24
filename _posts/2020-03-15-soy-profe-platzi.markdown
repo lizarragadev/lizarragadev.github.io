@@ -1,10 +1,10 @@
 ---
-title:  "Mi experiencia como profesor en Platzi"
+title:  "🇨🇴 Mi experiencia en Platzi"
 date:   2020-03-15 20:04:23
-categories: [jekyll]
-tags: [talk, workshop, impact, speaker]
+categories: [education]
+tags: [training, education, travel]
 image: "images/cover.jpg"
-description: "Un consejo muy importante cuando vayas a otro país es que lleves dólares para que el tipo de cambio no afecte tus bolsillos, ¿Quiéres saber lo que me pasó? sigue leyendo..."
+description: "Tuve la oportunidad de grabar un curso en Platzi, la plataforma de enseñanza online número 1 en latinoamérica"
 ---
 
 Un consejo muy importante cuando vayas a otro país es que lleves dólares para que el tipo de cambio no afecte tus bolsillos, ¿Quiéres saber lo que me pasó? sigue leyendo...

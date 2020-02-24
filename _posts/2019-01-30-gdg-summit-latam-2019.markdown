@@ -1,10 +1,10 @@
 ---
-title:  "¡Hola soy Gus!"
-date:   2019-06-01 20:04:23
-categories: [yo]
-tags: [yo]
+title:  "🇧🇷 ¡GDG Summit LatAm 2019!"
+date:   2019-01-30 20:04:23
+categories: [community]
+tags: [travel, community]
 image: "images/cover.jpg"
-description: "¡Hola!, gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo."
+description: "Uno de esos viajes con amigos a otro país por vía terrestre que jamás olvidaré por las distintas aventuras que pasamos."
 ---
 
 ¡Hola!, gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo.

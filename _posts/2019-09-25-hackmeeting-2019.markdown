@@ -1,10 +1,10 @@
 ---
-title:  "🇲🇽 ¡DevFest CONAIS Villahermosa!"
-date:   2019-08-15 08:14:00
+title:  "🇧🇴 ¡Hackmeeting 0x7e3!"
+date:   2019-09-25 08:14:00
 categories: [impact]
-tags: [talk, workshop, impact, travel]
+tags: [talk, impact]
 image: "images/cover.jpg"
-description: "Primera vez que llegaba a México y como siempre en cada nuevo país tengo una nueva aventura con travesuras y equivocaciones."
+description: "La cultura hacker es muy interesante, más que todo los amigos que haces y en éste Hackmeeting no fué la excepción."
 ---
 
 Cuando era niño escuchaba acerca de los **pejelagartos**, creí que era una broma, pero llegó el día en que los conocí incluso los comí y si, fué en México.

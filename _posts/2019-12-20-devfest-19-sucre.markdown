@@ -1,8 +1,8 @@
 ---
-title:  "¡DevFest Sucre 2019!"
+title:  "🇧🇴 ¡DevFest Sucre 2019!"
 date:   2019-12-20 20:04:23
-categories: [jekyll]
-tags: [talk, workshop, impact, speaker]
+categories: [impact]
+tags: [talk, workshop, impact, travel]
 image: "images/cover.jpg"
 description: "¿Sabías que en **Sucre** existe una calle llena de cráneos y huesos de personas que se usa como empedrado? Continúa leyendo y te cuento."
 ---
