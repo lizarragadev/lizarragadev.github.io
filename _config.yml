@@ -50,3 +50,10 @@ kramdown:
 
 plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: true
+  startings: [head, body]
