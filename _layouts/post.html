@@ -6,7 +6,8 @@ comments: true
   <header class="post-header">
     <div class="post-meta">
       {% assign dia = {{ page.date | date: "%m" }} %}
-      <time datetime="{{ page.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ site.months[{{ dia }}] }}{{ page.date | date: "%-d %Y" }}</time> 
+      {% assign diaLiteral = {{ site.months[dia] }}
+      <time datetime="{{ page.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ diaLiteral }}{{ page.date | date: "%-d, %Y" }}</time> 
       {% if page.tags.size > 0 %}
       &#8226; <span class="post-meta__tags">en {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</span>
       {% endif %}
