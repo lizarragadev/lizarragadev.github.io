@@ -5,10 +5,22 @@ comments: true
 <article class="post-container post-container--single">
   <header class="post-header">
     <div class="post-meta">
-      {% assign dia = {{ page.date | date: "%m" }} | plus: 0 %}
-      {% increment dia %}
-      {% assign diaLiteral = {{ site.months[dia] }} %}
-      <time datetime="{{ page.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ dia }} / {{ diaLiteral }}{{ page.date | date: "%-d, %Y" }}</time> 
+      {% assign m = page.date | date: "%-m" %}
+      {% case m %}
+        {% when '1' %}{% assign mes = "Enero" %}
+        {% when '2' %}{% assign mes = "Febrero" %}
+        {% when '3' %}{% assign mes = "Marzo" %}
+        {% when '4' %}{% assign mes = "Abril" %}
+        {% when '5' %}{% assign mes = "Mayo" %}
+        {% when '6' %}{% assign mes = "Junio" %}
+        {% when '7' %}{% assign mes = "Julio" %}
+        {% when '8' %}{% assign mes = "Agosto" %}
+        {% when '9' %}{% assign mes = "Septiembre" %}
+        {% when '10' %}{% assign mes = "Octubre" %}
+        {% when '11' %}{% assign mes = "Noviembre" %}
+        {% when '12' %}{% assign mes = "Diciembre" %}
+      {% endcase %}
+      <time datetime="{{ page.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time> 
       {% if page.tags.size > 0 %}
       &#8226; <span class="post-meta__tags">en {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</span>
       {% endif %}
