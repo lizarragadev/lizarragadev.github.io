@@ -5,7 +5,20 @@ comments: true
 <article class="post-container post-container--single">
   <header class="post-header">
     <div class="post-meta">
-      <time datetime="{{ page.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ page.date | date: "%-d %b %Y" }}</time>
+      <time datetime="{{ page.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ page.date | date: "%-d %-m %Y" } {% case m %}
+        {% when '1' %}Enero
+        {% when '2' %}Febrero
+        {% when '3' %}Marzo
+        {% when '4' %}Abril
+        {% when '5' %}Mayo
+        {% when '6' %}Junio
+        {% when '7' %}Julio
+        {% when '8' %}Agosto
+        {% when '9' %}Septiembre
+        {% when '10' %}Octubre
+        {% when '11' %}Noviembre
+        {% when '12' %}Diciembre
+      {% endcase %}}</time>
       {% if page.tags.size > 0 %}
       &#8226; <span class="post-meta__tags">on {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</span>
       {% endif %}
