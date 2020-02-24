@@ -5,7 +5,7 @@ comments: true
 <article class="post-container post-container--single">
   <header class="post-header">
     <div class="post-meta">
-      {% assign dia = {{ page.date | date: "%m" }} %}
+      {% assign dia = {{ page.date | date: "%m" }} | plus: 0 %}
       {% increment dia %}
       {% assign diaLiteral = {{ site.months[dia] }} %}
       <time datetime="{{ page.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ dia }} / {{ diaLiteral }}{{ page.date | date: "%-d, %Y" }}</time> 
