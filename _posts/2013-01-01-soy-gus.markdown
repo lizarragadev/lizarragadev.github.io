@@ -3,7 +3,7 @@ title:  "¡Hola soy Gus!"
 date:   2013-01-01 20:04:23
 categories: [personal]
 tags: [me]
-image: "images/HolaSoyGus/yodevfest.jpg"
+image: "images/posts/HolaSoyGus/yodevfest.jpg"
 description: "¡Hola!, gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo."
 ---
 
