@@ -11,7 +11,7 @@ description: "¡Hola!, gracias por darte una pasada por mi sitio personal y toma
 
 Mi nombre es **Gustavo Lizárraga**, soy de la ciudad maravilla: **La Paz** en el hermoso país de **Bolivia** y me gusta todo lo referido a tecnología. Me considero una persona muy apasionada por las cosas que me gusta; perfeccionista al punto que mi estado de humor puede cambiar drásticamente si las cosas no salen como las tenía planeadas; exigente conmigo mismo y con los demás, lo que me trajo problemas y pérdida de amig@s; persistente con mis sueños y gracias a ello voy consiguiendo cada una de las cosas que me propongo pero siempre confiando y pidiendo una mano a *Dios*. 
 
-![Mi foto](images/HolaSoyGus/yodevfest.jpg)
+![Mi foto]({{ site.baseurl }}/images/HolaSoyGus/yodevfest.jpg)
 
 Estudio **Informática** en la **Universidad Mayor de San Andrés**, soy un eterno aprendíz autodidácta en temas de tecnología, el espacio, multiversos, ciencia ficción y fan de teorías locas acerca del Universo.
 
