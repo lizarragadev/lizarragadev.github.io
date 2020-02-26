@@ -11,7 +11,7 @@ description: "¡Hola!, gracias por darte una pasada por mi sitio personal y toma
 
 Mi nombre es **Gustavo Lizárraga**, soy de la ciudad maravilla: **La Paz** en el hermoso país de **Bolivia** y me gusta todo lo referido a tecnología. Me considero una persona muy apasionada por las cosas que me gusta; perfeccionista al punto que mi estado de humor puede cambiar drásticamente si las cosas no salen como las tenía planeadas; exigente conmigo mismo y con los demás, lo que me trajo problemas y pérdida de amig@s; persistente con mis sueños y gracias a ello voy consiguiendo cada una de las cosas que me propongo pero siempre confiando y pidiendo una mano a *Dios*. 
 
-![Mi foto]({{ site.baseurl }}/images/HolaSoyGus/yodevfest.jpg)
+![Mi foto](https://lizarraga.dev/images/posts/HolaSoyGus/yodevfest.jpg)
 
 Estudio **Informática** en la **Universidad Mayor de San Andrés**, soy un eterno aprendíz autodidácta en temas de tecnología, el espacio, multiversos, ciencia ficción y fan de teorías locas acerca del Universo.
 
@@ -24,7 +24,7 @@ Me gusta la parte de seguridad, autenticación y el versionamiento de código, e
 
 Los programas a los que pertenezco me ayudan a conseguir uno de mis objetivos, que es ayudar o realizar un impacto a una o a miles de personas y compartirles lo mucho o poco que haya aprendido.
 
-![Mi foto](images/HolaSoyGus/yosfo.jpg)
+![Mi foto](https://lizarraga.dev/images/posts/HolaSoyGus/yosfo.jpg)
 
 Me gusta mucho hacer actividades de comunidad, fundé la comunidad **[GDG Android Bolivia](https://www.meetup.com/es-ES/GDGAndroidBolivia/)**, organizamos el primer campamento real tecnológico en Bolivia llamado **Android Camp**, realizamos distintas actividades como charlas, talleres, cursos y varios eventos grandes desde el año 2011.
 
@@ -36,7 +36,7 @@ También empezaré a generar material en mi blog: **[Mira Mi Código](https://mi
 
 Me gusta dar conferencias, talleres, bailar, manejar bicicleta, trotar, leer y lo que más deseo es recorrer el mundo programando.
 
-![Mi foto](images/HolaSoyGus/yoio2016.jpg)
+![Mi foto](https://lizarraga.dev/images/posts/HolaSoyGus/yoio2016.jpg)
 
 Siempre que voy a algún lugar a compartir con la comunidad llevo una frase conmigo, con la cuál menciono que *la única forma en la que realmente aprenderás algo, es compartiéndolo...*
 
