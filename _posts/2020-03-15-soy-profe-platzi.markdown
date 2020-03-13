@@ -7,19 +7,8 @@ image: "images/cover.jpg"
 description: "Tuve la oportunidad de grabar un curso en Platzi, la plataforma de enseñanza online número 1 en latinoamérica"
 ---
 
-Un consejo muy importante cuando vayas a otro país es que lleves dólares para que el tipo de cambio no afecte tus bolsillos, ¿Quiéres saber lo que me pasó? sigue leyendo...
+Grabar en una de las plataformas de educación en línea más grandes de latinoamérica: **Platzi** fué una de las experiencias más locas, divertidas, estresantes y satisfactorias que tuve en toda mi vida.
 
-
-
-Como último viaje de éste 2019 tocó ir a la **ciudad blanca**, la capital de **Bolivia**, la bonita ciudad de **Sucre**.
-
-## Día 1.
-El primer día que llegué a la ciudad de Sucre fuí a saborear la deliciosa gastronomía que poseen, además de poder conocer un poco la vida nocturna en la ciudad. Pero no sin antes poder impartir un taller que me gusta mucho, denominado: Little Kotlin Training.
- 
-## Día 2.
-
-
-## Día 3.
 
 
 
@@ -32,10 +21,10 @@ El primer día que llegué a la ciudad de Sucre fuí a saborear la deliciosa gas
 - Role: Speaker
 - Presentations:
     - **Little Kotlin Training** | Workshop
-        - **Description:** 
-        - **Duration:** 
-        - **[Slides]()** 
-        - **[Code]()** 
+        - **Description:**
+        - **Duration:**
+        - **[Slides]()**
+        - **[Code]()**
         - **Impact:** +8
     - **Leard Git with GitKraken** | Workshop
         - **Description:**
@@ -50,5 +39,4 @@ El primer día que llegué a la ciudad de Sucre fuí a saborear la deliciosa gas
         - **[Code]()**
         - **Impact:** +40
 
->  ***Learn and share***. 
-
+>  ***Learn and share***.
