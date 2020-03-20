@@ -1,6 +1,6 @@
 ---
 title:  "🇨🇴 Mi experiencia en Platzi"
-date:   2020-03-15 20:04:23
+date:   2020-03-26 20:04:23
 categories: [education]
 tags: [training, education, travel]
 image: "images/cover.jpg"

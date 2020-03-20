@@ -9,30 +9,32 @@ description: "¡Hola!, gracias por darte una pasada por mi sitio personal y toma
 
 ¡Hola!, gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo.
 
-Mi nombre es **Gustavo Lizárraga**, soy de la ciudad maravilla: **La Paz** en el hermoso país de **Bolivia** y me gusta todo lo referido a tecnología. Me considero una persona muy apasionada por las cosas que me gusta; perfeccionista al punto que mi estado de humor puede cambiar drásticamente si las cosas no salen como las tenía planeadas; exigente conmigo mismo y con los demás, lo que me trajo problemas y pérdida de amig@s; persistente con mis sueños y gracias a ello voy consiguiendo cada una de las cosas que me propongo pero siempre confiando y pidiendo una mano a *Dios*.
+Mi nombre es **Gustavo Lizárraga**, soy de la ciudad maravilla: **La Paz** en el hermoso país de **Bolivia** y me gusta todo lo referido a tecnología. Me considero una persona muy apasionada por las cosas que me gusta; perfeccionista al punto que mi estado de humor puede cambiar drásticamente si las cosas no salen como las tenía planeadas; exigente conmigo mismo y con los demás, lo que me trajo problemas y pérdida de amig@s; persistente con mis sueños y gracias a ello voy logrando cada una de las metas que me propuse pero siempre confiando y pidiendo una mano a *Dios*.
 
-![Mi foto](https://lizarraga.dev/images/posts/HolaSoyGus/yodevfest.jpg)
+![Mi foto](https://lizarraga.dev/images/posts/HolaSoyGus/Gus.jpg)
 
-Estudio **Informática** en la **Universidad Mayor de San Andrés**, soy un eterno aprendíz autodidácta en temas de tecnología, el espacio, multiversos, ciencia ficción y fan de teorías locas acerca del Universo.
+Me encanta mucho el área que elegí que es **Informática** de la **Universidad Mayor de San Andrés**, soy un eterno aprendíz autodidácta en temas de tecnología, el espacio, multiversos, ciencia ficción y fan de teorías locas acerca del Universo.
 
-Desarrollo Software, mi especialidad es la creación de aplicaciones móviles para el sistema operativo **Android** y también para **iOS**, me encanta programar de forma nativa con **Kotlin** y **Swift**. También me gusta mucho la creación de módulos para dispositivos vestibles (**Wearables**) y hacer cosas locas con **IoT**.
+Desarrollo Software, mi especialidad es la creación de aplicaciones móviles para el sistema operativo **Android** y también para **iOS**, me encanta programar de forma nativa con **Kotlin** y **Swift**.
 Me gusta la parte de seguridad, autenticación y el versionamiento de código, es por ello que actualmente pertenezco a tres programas tecnológicos que son:
 
 + 🚩**[GitHub Campus Expert](https://githubcampus.expert/lizarragadev/){:target="_blank"}**
 + ⭐**[Auth0 Ambassador](https://auth0.com/ambassador-program){:target="_blank"}**
 + 🦑**[GitKraken Ambassador](https://www.gitkraken.com/ambassador){:target="_blank"}**
 
-Los programas a los que pertenezco me ayudan a conseguir uno de mis objetivos, que es ayudar o realizar un impacto a una o a miles de personas y compartirles lo mucho o poco que haya aprendido.
+Los programas a los que pertenezco me ayudan a conseguir uno de mis objetivos, que es **ayudar**, realizar un impacto a una o a miles de personas y compartirles lo mucho o poco que haya aprendido.
 
 ![Mi foto](https://lizarraga.dev/images/posts/HolaSoyGus/yosfo.jpg)
 
-Me gusta mucho hacer actividades de comunidad, fundé la comunidad **[GDG Android Bolivia](https://www.meetup.com/es-ES/GDGAndroidBolivia/){:target="_blank"}**, organizamos el primer campamento real tecnológico en Bolivia llamado **Android Camp**, realizamos distintas actividades como charlas, talleres, cursos y varios eventos grandes desde el año 2011.
+Me gusta mucho realizar actividades de comunidad, fundé la comunidad **[GDG Android Bolivia](https://www.meetup.com/es-ES/GDGAndroidBolivia/){:target="_blank"}**, organizamos el primer campamento real tecnológico en Bolivia llamado **Android Camp**, realizamos distintas actividades como charlas, talleres, cursos y varios eventos grandes desde el año 2011.
 
 También fundé **[Kotlin La Paz](https://kotlinlapaz.dev/){:target="_blank"}** una comunidad enfocada en todo lo que tenga que ver con **Kotlin** como lenguaje de programación para el desarrollo de aplicaciones Android, Web y Multiplataforma. Una de las actividades recientes que ando realizando son los **[Kotlin Nights](https://nights.kotlinlapaz.dev/){:target="_blank"}** los cuáles son Meetups mensuales, que se enfocan en poder evangelizar todo el poder de **Kotlin** para desarrollar Software.
 
-Actualmente fundamos con unos amigxs el **[Facebook Developers Circle La Paz](https://www.facebook.com/groups/DevCLaPaz/){:target="_blank"} (DevC La Paz)** la cuál es una comunidad destinada a enfocarnos en distintas tecnologías existentes y respaldada por Facebook.
+Actualmente fundamos con unos amigxs el **[Facebook Developers Circle La Paz](https://www.facebook.com/groups/DevCLaPaz/){:target="_blank"} (DevC La Paz)** la cuál es una comunidad destinada a enfocarnos en distintas tecnologías existentes y respaldada por **Facebook**.
 
 También empezaré a generar material en mi blog: **[Mira Mi Código](https://miramicodigo.com/){:target="_blank"}**, tengo pendiente subir mucho más material pero lo haré poco a poco, en distintos formatos.
+
+Hace un tiempo grabé un curso para una de las plataformas más grandes de latinoamérica: **Platzi** el cuál tiene como nombre: **Desarrollo de aplicaciones con Kotlin**, me gustaría mucho que puedan tomarlo y me den sus impresiones, puedes inscribirte en el siguiente **[link](https://platzi.com/profesores/lizarragadev/){:target="_blank"}**.
 
 Me gusta dar conferencias, talleres, bailar, manejar bicicleta, trotar, leer y lo que más deseo es recorrer el mundo programando.
 
@@ -43,6 +45,6 @@ Siempre que voy a algún lugar a compartir con la comunidad llevo una frase conm
 Puedes revisar mi GitHub y probar los proyectos y demos que tengo:
 <a href="https://github.com/lizarragadev" target="_blank"><img src="https://gh-tl.now.sh/svg?user=lizarragadev"/></a>
 
-  > ***Aprende y comparte***
+  > **#NuncaParesDeAprender  #NuncaParesDeCompartir**
 
 Si necesitas algún consejo o ayuda no dudes en escribirme y haré lo posible para ayudarte en todo lo que esté a mi alcance, a un costado encontrarás todas mis redes sociales y llámame **Gus** ;)
