@@ -7,35 +7,27 @@ image: "images/cover.jpg"
 description: "Uno de esos viajes con amigos a otro país por vía terrestre que jamás olvidaré por las distintas aventuras que pasamos."
 ---
 
-¡Hola!, gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo.
+El **GDG Summit LatAm** es un evento para organizadores **GDG** de toda Latinoamérica, generalmente se lo realiza en un país "cercano" a tod@s. En ésta ocasión se llevó a cabo en **Sao Paulo - Brasil** en oficinas de **Google Brasil** y para ello solamente teniamos subvencionado el hotel por las noches que estuviéramos, el problema era llegar a nuestro destino combinando dos cosas: precio-diversión es por ello que decidimos ir **vía terrestre** desde La Paz, si exactamente por vía terrestre desde **La Paz - Bolivia** hasta **Sao Paulo - Brasil** y lo hicimos junto a dos grandes amigos: **[Julio](){:target="_blank"}** y **[Bruno](){:target="_blank"}** los cuáles éramos organizadores del **[GDG Android Bolivia](){:target="_blank"}** cuya comunidad fuímos a representar.
 
-Mi nombre es **Gustavo Lizárraga**, soy de la ciudad maravilla: **La Paz** en el hermoso país de **Bolivia** y me gusta todo lo referido a tecnología. Me considero una persona muy apasionada por las cosas que me gusta; perfeccionista al punto que mi estado de humor puede cambiar drásticamente si las cosas no salen como las tenía planeadas; exigente conmigo mismo y con los demás, lo que me trajo problemas y pérdida de amig@s; persistente con mis sueños y gracias a ello voy consiguiendo cada una de las cosas que me propongo pero siempre confiando y pidiendo una mano a *Dios*. 
+### ¡El viaje por tierra más largo de mi vida!
 
-Estudio **Informática** en la **Universidad Mayor de San Andrés**, soy un eterno aprendíz autodidácta en temas de tecnología, el espacio, multiversos, ciencia ficción y fan de teorías locas acerca del Universo.
+![Viaje Largo](https://lizarraga.dev/images/posts/GDGSummit/lapazsaopaulo.jpg)
 
-Desarrollo Software, mi especialidad es la creación de aplicaciones móviles para el sistema operativo **Android** y también para **iOS**, me encanta programar de forma nativa con **Kotlin** y **Swift**. También me gusta mucho la creación de módulos para dispositivos vestibles (**Wearables**) y hacer cosas locas con **IoT**. 
-Me gusta la parte de seguridad, autenticación y el versionamiento de código, es por ello que actualmente pertenezco a tres programas tecnológicos que son:
+Si, no exagero al decir que fué el viaje más largo por *vía terrestre* que realicé en toda mi vida, pero no me arrepiento de hacerlo, ya que tuvimos muchas aventuras en todo el camino y se las voy a contar.
 
-+ 🚩**[GitHub Campus Expert](https://githubcampus.expert/lizarragadev/)**
-+ ⭐**[Auth0 Ambassador](https://auth0.com/ambassador-program)**
-+ 🦑**[GitKraken Ambassador](https://www.gitkraken.com/ambassador)**
+### De La Paz a Santa Cruz
 
-Los programas a los que pertenezco me ayudan a conseguir uno de mis objetivos, que es ayudar o realizar un impacto a una o a miles de personas y compartirles lo mucho o poco que haya aprendido.
+![Ajedrez](https://lizarraga.dev/images/posts/GDGSummit/ajedrez.jpg)
 
-Me gusta mucho hacer actividades de comunidad, fundé la comunidad **[GDG Android Bolivia](https://www.meetup.com/es-ES/GDGAndroidBolivia/)**, organizamos el primer campamento real tecnológico en Bolivia llamado **Android Camp**, realizamos distintas actividades como charlas, talleres, cursos y varios eventos grandes desde el año 2011.
+Empezamos nuestro viaje desde nuestra ciudad **La Paz** rumbo a **Santa Cruz** ya que averiguamos previamente como llegar a nuestro destino y ya teníamos algo planeado. Al llegar a Santa Cruz tipo 07:00 a.m. fuimos a averiguar el costo de pasajes hacia **Puerto Quijarro** que es la frontera con Brasil, con la idea de comprar pasajes e irnos, pero nos mencionaron que los buses únicamente parten en horas de la tarde-noche. Entonces decidimos comprar, dejar nuestro equipaje y pasar todo el día paseando por el **Sauna Santa Cruz**, realmente como **Collitas** que somos, el clima nos causa mucha reacción, pero estuvimos todo el día paseando por algunos mercados, caminando, comiendo y por sobre todo hidratándonos constantemente por la tremenda calor que hacía.
 
-También fundé **[Kotlin La Paz](https://kotlinlapaz.dev/)** una comunidad enfocada en todo lo que tenga que ver con **Kotlin** como lenguaje de programación para el desarrollo de aplicaciones Android, Web y Multiplataforma. Una de las actividades recientes que ando realizando son los **[Kotlin Nights](https://nights.kotlinlapaz.dev/)** los cuáles son Meetups mensuales, que se enfocan en poder evangelizar todo el poder de **Kotlin** para desarrollar Software.
+![Ajedrez](https://lizarraga.dev/images/posts/GDGSummit/casacamba.jpg)
 
-Actualmente fundamos con unos amigxs el **[Facebook Developers Circle La Paz](https://www.facebook.com/groups/DevCLaPaz/) (DevC La Paz)** la cuál es una comunidad destinada a enfocarnos en distintas tecnologías existentes y respaldada por Facebook.
- 
-También empezaré a generar material en mi blog: **[Mira Mi Código](https://miramicodigo.com/)**, tengo pendiente subir mucho más material pero lo haré poco a poco, en distintos formatos.
+### De Santa Cruz a Puerto Quijarro
 
-Me gusta dar conferencias, talleres, bailar, manejar bicicleta, trotar, leer y lo que más deseo es recorrer el mundo programando.
+![Frontera](https://lizarraga.dev/images/posts/GDGSummit/puertoquijarro.jpg)
 
-Siempre que voy a algún lugar a compartir con la comunidad llevo una frase conmigo, con la cuál menciono que *la única forma en la que realmente aprenderás algo, es compartiéndolo...*
-
-  > ***Aprende y comparte***
-
-Si necesitas algún consejo o ayuda no dudes en escribirme y haré lo posible para ayudarte en todo lo que esté a mi alcance, a un costado encontrarás todas mis redes sociales y llámame **Gus** ;)
+Después de pasear por **Santa Cruz** nos fuimos rumbo a **Puerto Quijarro** que es la frontera de Bolivia con Brasil, llegamos en horas de la mañana aproximadamente 08:00 am, para realizar la fila para migración. Después de mas de una hora y un poco más de trámite, pudimos pasar la frontera y ya nos encontrábamos en *el país mais grande do mundo*, pero aún muy lejos de nuestro destino.
 
 
+> Iré contando poco a poco toda la historia...
