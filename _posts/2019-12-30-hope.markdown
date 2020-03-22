@@ -10,33 +10,3 @@ description: "Hicimos el trabajo de papanoel y duendes en las fiestas de fin de 
 Considero que ayudar de vez en cuando a personas lo necesitan es una obligación de todo ser humano, el sentir empatía con personas que quizá no tuvieron la misma suerte o destino que tu, pero tu puedes hacer la diferencia y quizá sacarle una sonrisa algún día.
 
 Por varios años llevé a cabo actividades navideñas, entre las que podría mencionar: Agasajo a niños y niñas de horfanatos, chocolatada en asilo de ancianos, llevar comida a perros callejeros, incluso organizar ciclos de conferencias para recolectar juguetes y siempre tenía dentro mío cumplir un sueño que tuve hace mucho y es cumplirle el sueño a alguien y gracias a mis amig@s, pude cumplirlo con **HOPE**.
-
-
-## Metrics
-
-- Event name: DevFest Sucre 2019.
-- Community: GDG Sucre
-- Date: December 5, 6, 7
-- Locality: Sucre, Bolivia
-- Role: Speaker
-- Presentations:
-    - **Little Kotlin Training** | Workshop
-        - **Description:**
-        - **Duration:**
-        - **[Slides]()**
-        - **[Code]()**
-        - **Impact:** +8
-    - **Leard Git with GitKraken** | Workshop
-        - **Description:**
-        - **Duration:**
-        - **[Slides]()**
-        - **[Code]()**
-        - **Impact:** +10
-    - **Modern Identity** | Talk
-        - **Description:**
-        - **Duration:**
-        - **[Slides]()**
-        - **[Code]()**
-        - **Impact:** +40
-
->  ***Learn and share***.
