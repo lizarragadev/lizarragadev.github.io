@@ -7,7 +7,11 @@ image: "images/cover.jpg"
 description: "Primera vez que llegaba a México y como siempre en cada nuevo país tengo una nueva aventura con travesuras y equivocaciones."
 ---
 
+Cuando era niño escuchaba acerca de los **pejelagartos**, creí que era una broma, pero llegó el día en que los conocí e incluso los comí y si, fué en México.
 
+
+### Intercambio GDG
+El programa GDG implementó lo que son los intercambios GDG que consistía en poder participar de otro evento GDG de un vecino país. En mi caso postulé para poder ir a Cancún (para visitar a mi amigo **José Luján**) o Villahermosa. Me asignaron poder ir al **DevFest CONAIS** del **GDG Villahermosa** y asi emprendí mi viaje.
 
 
 ## Metrics
