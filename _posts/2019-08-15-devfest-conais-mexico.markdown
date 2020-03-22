@@ -7,35 +7,22 @@ image: "images/cover.jpg"
 description: "Primera vez que llegaba a México y como siempre en cada nuevo país tengo una nueva aventura con travesuras y equivocaciones."
 ---
 
-Cuando era niño escuchaba acerca de los **pejelagartos**, creí que era una broma, pero llegó el día en que los conocí incluso los comí y si, fué en México.
-
-
-
-Como último viaje de éste 2019 tocó ir a la **ciudad blanca**, la capital de **Bolivia**, la bonita ciudad de **Sucre**.
-
-## Día 1.
-El primer día que llegué a la ciudad de Sucre fuí a saborear la deliciosa gastronomía que poseen, además de poder conocer un poco la vida nocturna en la ciudad. Pero no sin antes poder impartir un taller que me gusta mucho, denominado: Little Kotlin Training.
- 
-## Día 2.
-
-
-## Día 3.
 
 
 
 ## Metrics
 
-- Event name: DevFest Sucre 2019.
-- Community: GDG Sucre
-- Date: December 5, 6, 7
-- Locality: Sucre, Bolivia
+- Event name: DevFest CONAIS 2019.
+- Community: GDG Villahermosa
+- Date: August 5, 6
+- Locality: Villahermosa, México
 - Role: Speaker
 - Presentations:
     - **Little Kotlin Training** | Workshop
-        - **Description:** 
-        - **Duration:** 
-        - **[Slides]()** 
-        - **[Code]()** 
+        - **Description:**
+        - **Duration:**
+        - **[Slides]()**
+        - **[Code]()**
         - **Impact:** +8
     - **Leard Git with GitKraken** | Workshop
         - **Description:**
@@ -50,5 +37,4 @@ El primer día que llegué a la ciudad de Sucre fuí a saborear la deliciosa gas
         - **[Code]()**
         - **Impact:** +40
 
->  ***Learn and share***. 
-
+>  ***Learn and share***.

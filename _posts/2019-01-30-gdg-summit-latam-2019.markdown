@@ -7,15 +7,17 @@ image: "images/cover.jpg"
 description: "Uno de esos viajes con amigos a otro país por vía terrestre que jamás olvidaré por las distintas aventuras que pasamos."
 ---
 
-El **GDG Summit LatAm** es un evento para organizadores **GDG** de toda Latinoamérica, generalmente se lo realiza en un país "cercano" a tod@s. En ésta ocasión se llevó a cabo en **Sao Paulo - Brasil** en oficinas de **Google Brasil** y para ello solamente teniamos subvencionado el hotel por las noches que estuviéramos, el problema era llegar a nuestro destino combinando dos cosas: precio-diversión es por ello que decidimos ir **vía terrestre** desde La Paz, si exactamente por vía terrestre desde **La Paz - Bolivia** hasta **Sao Paulo - Brasil** y lo hicimos junto a dos grandes amigos: **[Julio](){:target="_blank"}** y **[Bruno](){:target="_blank"}** los cuáles éramos organizadores del **[GDG Android Bolivia](){:target="_blank"}** cuya comunidad fuímos a representar.
+El **GDG Summit LatAm** es un evento para organizadores **GDG** de toda Latinoamérica, generalmente se lo realiza en un país "cercano" a tod@s.
 
-### ¡El viaje por tierra más largo de mi vida!
+En ésta ocasión se llevó a cabo en **Sao Paulo - Brasil** en oficinas de **Google Brasil** y para ello solamente teniamos subvencionado el hotel por las noches que estuviéramos, el problema era llegar a nuestro destino combinando dos cosas: precio-diversión es por ello que decidimos ir **vía terrestre** desde La Paz, si exactamente por vía terrestre desde **La Paz - Bolivia** hasta **Sao Paulo - Brasil** y lo hicimos junto a dos grandes amigos: **[Julio](){:target="_blank"}** y **[Bruno](){:target="_blank"}** los cuáles éramos organizadores del **[GDG Android Bolivia](){:target="_blank"}** cuya comunidad fuímos a representar.
+
+### **¡El viaje por tierra más largo de mi vida!**
 
 ![Viaje Largo](https://lizarraga.dev/images/posts/GDGSummit/lapazsaopaulo.jpg)
 
 Si, no exagero al decir que fué el viaje más largo por *vía terrestre* que realicé en toda mi vida, pero no me arrepiento de hacerlo, ya que tuvimos muchas aventuras en todo el camino y se las voy a contar.
 
-### De La Paz a Santa Cruz
+### **De La Paz a Santa Cruz**
 
 ![Ajedrez](https://lizarraga.dev/images/posts/GDGSummit/ajedrez.jpg)
 
@@ -23,7 +25,7 @@ Empezamos nuestro viaje desde nuestra ciudad **La Paz** rumbo a **Santa Cruz** y
 
 ![Ajedrez](https://lizarraga.dev/images/posts/GDGSummit/casacamba.jpg)
 
-### De Santa Cruz a Puerto Quijarro
+### **De Santa Cruz a Puerto Quijarro**
 
 ![Frontera](https://lizarraga.dev/images/posts/GDGSummit/puertoquijarro.jpg)
 
