@@ -85,4 +85,4 @@ Reitero mi agradecimiento especial a **Daniel Sánchez** que fué un excelente *
  
 ![Yo](https://lizarraga.dev/images/posts/ExperienciaPlatzi/gus2.jpg)
  
-Si quieres tomar mi curso te invito a ingresar al siguiente [enlace](https://platzi.com/profesores/lizarragadev) y puedes encontrarme en cualquier red social como: **@lizarraga.dev** y por último: **#NuncaDejesdeAprender** y **#NuncaDejesdeCompartir**.
+Si quieres tomar mi curso te invito a ingresar al siguiente [enlace](https://platzi.com/profesores/lizarragadev) y puedes encontrarme en cualquier red social como: **@lizarraga.dev** y por último: **#NuncaParesdeAprender** y **#NuncaParesdeCompartir**.
