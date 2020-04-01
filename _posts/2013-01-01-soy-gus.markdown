@@ -7,9 +7,7 @@ image: "images/posts/HolaSoyGus/yodevfest.jpg"
 description: "¡Hola!, gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo."
 ---
 
-¡Hola!
-
-Gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo.
+¡Hola!, Gracias por darte una pasada por mi sitio personal y tomarte el tiempo de leer las locas cosas que escribo.
 
 Mi nombre es **Gustavo Lizárraga**, soy de la ciudad maravilla: **La Paz** en el hermoso país de **Bolivia** y me gusta todo lo referido a tecnología. Me considero una persona muy apasionada por las cosas que me gusta; perfeccionista al punto que mi estado de humor puede cambiar drásticamente si las cosas no salen como las tenía planeadas; exigente conmigo mismo y con los demás, lo que me trajo problemas y pérdida de amig@s; persistente con mis sueños y gracias a ello voy logrando cada una de las metas que me propuse pero siempre confiando y pidiendo una mano a *Dios*.
 
@@ -17,7 +15,7 @@ Mi nombre es **Gustavo Lizárraga**, soy de la ciudad maravilla: **La Paz** en e
 
 Me encanta mucho el área que elegí que es **Informática** de la **Universidad Mayor de San Andrés**, soy un eterno aprendíz autodidácta en temas de tecnología, el espacio, multiversos, ciencia ficción y fan de teorías locas acerca del Universo.
 
-Desarrollo Software, mi especialidad es la creación de aplicaciones móviles para el sistema operativo **Android** y también para **iOS**, me encanta programar de forma nativa con **Kotlin** y **Swift**.
+Desarrollo Software, mi especialidad es la creación de aplicaciones móviles para el sistema operativo **Android** y también para **iOS** (aunque lo dejé hace un tiempo), me encanta programar de forma nativa con **Kotlin** y **Swift**.
 Me gusta la parte de seguridad, autenticación y el versionamiento de código, es por ello que actualmente pertenezco a tres programas tecnológicos que son:
 
 + 🚩**[GitHub Campus Expert](https://githubcampus.expert/lizarragadev/){:target="_blank"}**
@@ -34,15 +32,15 @@ También fundé **[Kotlin La Paz](https://kotlinlapaz.dev/){:target="_blank"}** 
 
 Actualmente fundamos con unos amigxs el **[Facebook Developers Circle La Paz](https://www.facebook.com/groups/DevCLaPaz/){:target="_blank"} (DevC La Paz)** la cuál es una comunidad destinada a enfocarnos en distintas tecnologías existentes y respaldada por **Facebook**.
 
-También empezaré a generar material en mi blog: **[Mira Mi Código](https://miramicodigo.com/){:target="_blank"}**, tengo pendiente subir mucho más material pero lo haré poco a poco, en distintos formatos.
+También empecé a generar material en mi blog: **[Mira Mi Código](https://miramicodigo.com/){:target="_blank"}** (hace algún tiempo pero lo dejé en el olvido, meta pendiente), tengo pendiente subir mucho más material pero lo haré poco a poco, en distintos formatos.
 
-Hace un tiempo grabé un curso para una de las plataformas más grandes de latinoamérica: **[Platzi](https://platzi.com/){:target="_blank"}** el cuál tiene como nombre: **Desarrollo de aplicaciones con Kotlin**, me gustaría mucho que puedan tomarlo y me den sus impresiones, puedes inscribirte en el siguiente **[link](https://platzi.com/profesores/lizarragadev/){:target="_blank"}**.
+Hace un tiempo grabé un curso para una de las plataformas más grandes de latinoamérica: **[Platzi](https://platzi.com/){:target="_blank"}** el cuál tiene como nombre: **Curso de Kotlin para Android**, me gustaría mucho que puedan tomarlo y me den sus impresiones, puedes inscribirte en el siguiente **[link](https://platzi.com/profesores/lizarragadev/){:target="_blank"}**.
 
 Me gusta dar conferencias, talleres, bailar, manejar bicicleta, trotar, leer y lo que más deseo es recorrer el mundo programando.
 
 ![Mi foto](https://lizarraga.dev/images/posts/HolaSoyGus/yoio2016.jpg)
 
-Siempre que voy a algún lugar a compartir con la comunidad llevo una frase conmigo, con la cuál menciono que **la única forma en la que realmente aprenderás algo, es compartiéndolo...**
+Siempre que voy a algún lugar a compartir con la comunidad llevo una frase conmigo, con la cuál menciono que **la única forma en la que realmente aprenderás algo, es compartiéndolo...** por eso: **#NuncaParesdeCompartir**.
 
 Puedes revisar mi GitHub y probar los proyectos y demos que tengo:
 <a href="https://github.com/lizarragadev" target="_blank"><img src="https://gh-tl.now.sh/svg?user=lizarragadev"/></a>
