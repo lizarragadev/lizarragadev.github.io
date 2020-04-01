@@ -80,11 +80,21 @@
               </li>
             {% endif %}
 
+            {% if site.author.youtube_username %}
+            <!-- YouTube -->
+            <li class="navigation__item">
+              <a href="https://www.youtube.com/channel/{{ site.author.youtube_username }}" title="{{ site.author.youtube_username }} on YouTube" target="_blank">
+                <i class="icon icon-social-youtube"></i>
+                <span class="label">YouTube</span>
+              </a>
+            </li>
+            {% endif %}
+
             {% if site.author.speakerdeck_username %}
             <!-- Speakerdeck -->
             <li class="navigation__item">
               <a href="https://speakerdeck.com/{{ site.author.speakerdeck_username }}" title="{{ site.author.speakerdeck_username }} on SpeakerDeck" target="_blank">
-                <img src="{{ site.baseurl }}/css/logo-speakerdeck.png" width="24px">
+                <img src="{{ site.baseurl }}/css/logo-speakerdeck.png" width="20px">
                 <span class="label">SpeakerDeck</span>
               </a>
             </li>
