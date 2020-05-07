@@ -3,7 +3,7 @@ title:  "🪐 ¡Lo nuevo de GitHub!"
 date:   2020-05-06 21:00:23
 categories: [post]
 tags: [education, github]
-image: "images/posts/ExperienciaPlatzi/Thumbnail1.jpg"
+image: "images/posts/GitHubSatellite/bannersatellite.png"
 description: "Se llevó a cabo el evento anual de GitHub y nos presentaron varias novedades de las cuáles te vengo a comentar algunas."
 ---
 
