@@ -22,7 +22,7 @@
   {% if site.author.twitter_username %}
   <meta name="twitter:creator" content="{{ site.author.twitter_username }}"/>
   {% endif %}
-  <meta name="twitter:image" content="{% if page.image %}{{ page.url }}/{{ page.image }}{% else %}{{ page.url }}/images/bannerSquare.png{% endif %}" />
+  <meta name="twitter:image" content="{% if page.image %}{{ site.baseurl }}/{{ page.image }}{% else %}{{ site.baseurl }}/images/bannerSquare.png{% endif %}" />
 
   <meta property="fb:app_id" content="187233289275499"/>
   <meta property="og:type" content="article"/>
