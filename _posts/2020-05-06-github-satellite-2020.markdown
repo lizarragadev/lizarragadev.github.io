@@ -23,7 +23,7 @@ Es el evento anual que GitHub presenta para enseñar sus nuevos productos y unir
 
 ## Novedades
 
-**Nat Friedman** CEO de GitHub inició el evento con un Keynote resumiento lo más relevante que se presentará en el evento. 
+**Nat Friedman** CEO de GitHub inició el evento con un Keynote resumiendo lo más relevante que se presentará en el evento. 
 
 ![Octocat](https://lizarraga.dev/images/posts/GitHubSatellite/welcometocat.png)
 
