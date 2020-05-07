@@ -1,16 +1,15 @@
 ---
-title:  ":octocat: ¡Lo nuevo en GitHub!"
+title:  "🎆 ¡Lo nuevo de GitHub!"
 date:   2020-05-06 21:00:23
 categories: [post]
 tags: [education, github]
 image: "images/posts/ExperienciaPlatzi/Thumbnail1.jpg"
-description: "Hoy se llevó a cabo el evento anual de GitHub y nos presentaron varias novedades de las cuáles te vengo a comentar algunas."
+description: "Se llevó a cabo el evento anual de GitHub y nos presentaron varias novedades de las cuáles te vengo a comentar algunas."
 ---
 
 Si en tu día a día utilizas GitHub como sistema para almacenar tus proyectos de Software, seguramente te interesará saber las novedades que GitHub nos presentó en su evento anual.
 
-
-![Yo](https://lizarraga.dev/images/posts/ExperienciaPlatzi/Thumbnail1.jpg)
+![GitHub Satellite](https://lizarraga.dev/images/posts/GitHubSatellite/bannersatellite.png)
  
 ## GitHub Satellite 2020
  
@@ -93,6 +92,8 @@ La seguridad de los proyectos de las grandes empresas son importantes para GitHu
 ## Campus Expert Watch Party 🎉!
 
 Actualmente pertenezco al programa **GitHub Campus Expert** y hoy tuvimos una **Watch Party** que consistía en que invitaban a los expositores de Satellite a una sala privada en Zoom. Mediante el cuál podíamos realizar preguntas personalizadas con todos los Campus Expert.
+
+![Campus Experts](https://lizarraga.dev/images/posts/GitHubSatellite/campusexpert.jpg)
 
 Me siento bastante entusiasmado por todas las nuevas características que hoy lanzaron en GitHub. Si bien no son todas las que mencioné, pero son las más relevantes.
 
